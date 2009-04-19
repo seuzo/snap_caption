@@ -25,6 +25,12 @@
 #InDesign CS3_J（5.0.2）、InDesign CS2_J（4.0.5）でも動作するかもしれません。
 
 
+**ダウンロード
+[http://www.seuzo.jp/st/scripts_InDesignCS4/index.html#snap_caption]
+gitをお使いの方はこちら：
+[http://github.com/seuzo/snap_caption/]
+
+
 **インストール
 スクリプト本体（snap_caption.jsx）を
 ~/Library/Preferences/Adobe InDesign/Version 6.0-J/ja_JP/Scripts/Scripts Panel/
@@ -55,6 +61,7 @@
 
 
 **既知の不具合、またはToDo
+対象オブジェクトが回転している場合、正しく処理しません。
 画像内にクリッピングパスを持っていたらスナップさせたい、かも。
 
 
